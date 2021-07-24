@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://z-m-scontent.fsrg5-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/178794509_321585029496952_6387926397273788268_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeHV8C8LuoWDu3KXnDlN3E8A8QehxdegND3xB6HF16A0PZpinN2wuVDKWy3YvPOccR6r8xi9X8BXnky8yLkbCn0m&_nc_ohc=39HVfEctZu4AX_1JLdD&_nc_ad=z-m&_nc_cid=1230&_nc_eh=dd4a11a02606370d457177f4107dae2d&_nc_rml=0&_nc_ht=z-m-scontent.fsrg5-1.fna&tp=14&oh=75d9b213a0b3426028457b40b004f5ca&oe=60BD4474">
+<img src="https://avatars.githubusercontent.com/u/83586926?s=60&v=4">
 </p>
 <p align="center">
 <i> <b> ! Quotest From me ! </b> </i>
