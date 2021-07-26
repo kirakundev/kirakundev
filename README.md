@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
 [![](https://img.shields.io/badge/Forum-Group-blue?logo=Telegram&logoColorBrightblue&LabelColor=white)](https://t.me/joinchat/8k7velZ7UjY5NmQ1)
 #### Donate :
+<b>Click down ⬇️⬇️⬇️⬇️ To Donate</b>
 <a href="https://saweria.co/WarceuHunter"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
