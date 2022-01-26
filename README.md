@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> WarceuHunter </h1>
+<h1 align="center"> WarceuProject </h1>
 <p align="center">
 •●•
 </p>
