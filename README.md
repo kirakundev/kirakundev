@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Forum-Group-blue?logo=Telegram&logoColorBrightblue&LabelColor=white)](https://t.me/joinchat/8k7velZ7UjY5NmQ1)
 #### Donate :
 <b>⬇️⬇️⬇️⬇️ Clik link To Donate</b>
-https://paypal.me/YagamiID?country.x=ID&locale.x=id_ID
-
+https://www.paypal.com/paypalme/YagamiID
