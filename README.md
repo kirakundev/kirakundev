@@ -10,5 +10,5 @@
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
 <br/>
 <b>Support me via donate 🤗
-[![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://paypal.me/yagamiid)
 
