@@ -1,38 +1,26 @@
-### Hi Sir 👋
+## Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
+  > This is my personal github
+- 🔭 I’m currently working on nothing
+- 🌱 I’m student who like physics
+- 👯 I’m looking to collaborate on [nothing](kklmfir.home.blog)
+- 🤔 I’m looking for help with [google](google.com)
+- 💬 Don't ask me anything
+- 😄 Pronouns: for practical purposes: I don't exist.
+- ⚡ Nothing special: 
+   * I am learning how to code with myself :v
+   * Ah that doesn't matter wkwkw
+   * My IDE: Vim
+   * Sublime-text is my favorite GUI code editor ❤️
 
-<!--
-**WarceuHunter/WarceuHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Github Stats <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.gif" width="20px" heigh="20px">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kklmfir&show_icons=true&theme=radical)<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center"> WarceuProject </h1>
-<p align="center">
-•●•
-</p>
-
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/83586926?s=60&v=4">
-</p>
-<p align="center">
-<i> <b> ! Quotest From me ! </b> </i>
-</p
-<p>hidup mu di tentukan oleh mu bukan orang lain</p>
-
-### Github Stat's <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.gif" width="20px" heigh="20px">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WarceuProject&show_icons=true&theme=radical)<br>
-### contact me
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/WarceuHunter/?_ft_=mf_story_key.321585052830283%3Atop_level_post_id.321585026163619%3Atl_objid.321585026163619%3Acontent_owner_id_new.114509076871216%3Athrowback_story_fbid.321585052830283%3Apage_id.114509076871216%3Astory_location.4%3Astory_attachment_style.profile_media%3Atds_flgs.3%3Aott.AX9z7A386oR4HjrP%3Athid.114509076871216&__tn__=%2Cg&_rdr)
+#### Contact Me <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.webp" width="20px">
+<!--Personal-->
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/m.eris.1406)
+[![](https://img.shields.io/badge/FacebookPage-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/warceuproject)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
-[![](https://img.shields.io/badge/Forum-Group-blue?logo=Telegram&logoColorBrightblue&LabelColor=white)](https://t.me/warceuprojectcenter)
-#### Donate :
-<b>⬇️⬇️⬇️⬇️ Clik link To Donate</b>
-https://www.paypal.com/paypalme/YagamiID
+<br/>
+<b>Support me via donate 🤗
+[![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
+
