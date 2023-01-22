@@ -15,7 +15,7 @@ https://github.com/WarceuProject
 <br>[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/kirasinigami)
 [![](https://img.shields.io/badge/FacebookPage-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/warceuproject)
 <br>[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
-[![](https://img.shields.io/badge/Email-center?logo=Email&logoColor=red&labelColor=white)](mailto:center@warceuproject.dev)
+[![](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-center%40warceuproject.dev-white)](mailto:center@warceuproject.dev)
 <br/>
 <b>Support me via donate 🤗
 [![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://paypal.me/yagamiid)
