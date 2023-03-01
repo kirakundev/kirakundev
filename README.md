@@ -1,6 +1,9 @@
+
+![](https://komarev.com/ghpvc/?username=kirasinigami)
+  
 ## Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 <img src="https://i.ibb.co/JKL0RPs/ezgif-2-681cbd1027.gif">
-  
+
 #### Github Stats <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.gif" width="20px" heigh="20px">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kirasinigami&show_icons=true&theme=radical)<br>
 
