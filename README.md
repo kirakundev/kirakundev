@@ -90,7 +90,7 @@
 <br/>
 <b align="center">Support me via donate 🤗</b>
 <br align="center"> [![Wallet Digital](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://paypal.me/yagamiid) 
-<br align="center"> ![](https://img.shields.io/badge/BTC-yellow?logo=Bitcoin&logoColor=Brightblue&labelColor=white&label=15PgLTco7eBqFyCMy97Tm9wKKnYqQKsfNX)
+<br align="center"> ![](https://img.shields.io/badge/15PgLTco7eBqFyCMy97Tm9wKKnYqQKsfNX-white?logo=Bitcoin&logoColor=Brightblue&labelColor=yellow&)
 <hr>
 
 ***BTC Address***
