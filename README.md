@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kirasinigami/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kirakundev/count.svg?"  />
 </div>
 
 ###
@@ -24,9 +24,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirasinigami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stat's" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirasinigami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kirasinigami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirakundev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stat's" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirakundev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kirakundev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -83,8 +83,8 @@
 <h6 align="center"> Contact Me <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.webp" width="20px"></h6>
 
 <!--Personal-->
-<br align="center">[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/kirasinigami.inc)
-[![](https://img.shields.io/badge/FacebookPage-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/kirasinigami.dev)
+<br align="center">[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/kirakun.dev)
+[![](https://img.shields.io/badge/FacebookPage-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/warceuproject)
 <br align="center">[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang)
 [![](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-kira%40warceuproject.dev-white)](mailto:kira@warceuproject.dev)
 <br/>
