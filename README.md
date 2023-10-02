@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kirasinigami/kirasinigami/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kirakundev/kirakundev/output/snake.svg" alt="Snake animation" />
 
 ###
 
