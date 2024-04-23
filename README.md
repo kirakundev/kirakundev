@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://telegra.ph/file/358cd954230ee6e1b928d.png"  />
+  <img height="200" src="nami.jpeg"  />
 </div>
 
 ###
