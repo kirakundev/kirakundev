@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="nami.jpeg"  />
+  <a href="https://stardev.io/developers/kirakundev"><img alt="Check out kirakundev's profile on stardev.io" src="https://stardev.io/developers/kirakundev/badge/languages/locality.svg" /></a>
+  
   
   こんにちは、私はキラ・デヴです。スンダ族出身で、Web サーバー開発者です。プログラミングやサイバーセキュリティの分野における今日のテクノロジーに興味があります
   
